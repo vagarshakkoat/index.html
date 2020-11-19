@@ -1,7 +1,7 @@
 <?php
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'https://vagarshakkoat.github.io/index.html/';//PHP/HTML file or URL used for bots
-$CLOAKING['OFFER_PAGE'] = 'https://yandex.ru/';//PHP/HTML file or URL offer used for real users
+$CLOAKING['OFFER_PAGE'] = 'https://google.com/';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'on';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /*********************************************/
